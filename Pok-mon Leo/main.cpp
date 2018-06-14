@@ -17,7 +17,11 @@ int main()
     int x[7];
     LecturaPokedex(Pokedex);
 //    ListaPokemon(Pokedex);
-
+     for (int i=1;i<=151;i++){
+        Pokedex[i].Mostrar();
+        cout<<endl;
+     }
+     system("pause");
     int jugadores;
     do{
        // random(x);

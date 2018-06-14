@@ -1,0 +1,151 @@
+﻿Bulbasaur;15;50;Placaje;50;Latigo cepa;45;Latigazo;50;Bomba germen;35;Bomba lodo;35;Rayo solar;120;118;118;90
+Ivysaur;31;100;Hoja afilada;55;Latigo cepa;50;Rayo solar;120;Latigazo;50;Bomba lodo;45;Luz solar;30;151;151;120
+Venusaur;52;150;Hoja afilada;55;Latigo cepa;55;Rayo solar;125;Tormenta floral;60;Bomba lodo;45;Danza petalo;50;198;198;160
+Charmander;15;50;Ascuas;40;Aranazo;40;Lanzallamas;90;Pirotecnia;45;Nitrocarga;50;Barra oblicua;45;116;96;78
+Charmeleon;35;120;Colmillo igneo;35;Ascuas;45;Lanzallamas;95;Pirotecnia;50;Puno fuego;55;Garra metal;45;158;129;116
+Charizard;54;165;Giro fuego;55;Tajo aereo;50;Garra dragon;55;Llamarada;65;Infierno;70;Alas acero;50;223;176;156
+Squirtle;15;50;Burbuja;40;Placaje;50;Acua cola;55;Hidropulso;100;Acua jet;50;Baile lluvia;50;94;122;88
+Wartortle;35;120;Pistola agua;55;Mordisco;45;Hidrobomba;80;Rayo hielo;110;Acua jet;55;Cola aqua;50;126;155;118
+Blastoise;54;170;Pistola agua;60;Mordisco;50;Hidrobomba;90;Foco resplandor;45;Rayo hielo;120;Giro rapido;60;171;210;158
+Caterpie;6;40;Placaje;50;Picadura;35;Combate;35;Telarana;40;Sofoco;10;Picadura insecto;50;55;62;90
+Metapod;9;60;Placaje;50;Picadura;35;Combate;35;Dureza;0;Sofoco;10;Picadura insecto;50;45;94;100
+Butterfree;15;80;Confusion;35;Estoicismo;45;Doble rayo;60;Psiquico;65;Zumbido;35;Supersonico;50;167;151;120
+Weedle;6;40;Picotazo;30;Veneno;40;Picadura;35;Combate;20;Telarana;35;Golpe cadena;50;63;55;80
+Kakuna;9;60;Picotazo;35;Veneno;45;Picadura;40;Combate;25;Telarana;40;Golpe cadena;55;46;86;90
+Beedrill;15;80;Acoso;10;Puya nociva;50;Bomba lodo;45;Golpe aereo;55;Tijera x;60;Misil pin;65;169;150;130
+Pidgey;17;55;Placaje;50;Ataque rapido;45;Aire afilado;55;Golpe aereo;55;Ciclon;50;Baile pluma;35;85;76;80
+Pidgeotto;35;110;Ala acero;55;Ataque ala;55;Aire afilado;50;Golpe aereo;60;Ciclon;55;Ataque rapido;50;114;108;126
+Pidgeot;54;140;Ala acero;60;Tajo aereo;55;Golpe aereo;55;Pajaro osado;65;Vendeval;50;Huracan;70;166;157;166
+Rattata;19;50;Placaje;35;Ataque rapido;35;Golpe cuerpo;40;Excavar;35;Hipercolmillo;45;Crujido;30;103;70;60
+Raticate;31;90;Ataque rapido;40;Mordisco;45;Hiperrayo;50;Excavar;40;Hipercolmillo;50;Esfuerzo;0;161;144;110
+Spearow;19;60;Ataque rapido;40;Picotazo;45;Ataque aereo;45;Pico taladro;40;Golpe aereo;50;Fuerza;50;112;61;80
+Fearow;52;120;Ala Acero;50;Picotazo;50;Ataque aereo;50;Golpe aereo;55;Taladradora;60;Tornado;55;182;135;130;
+Ekans;21;70;Acido;40;Picotazo Veneno;35;Bomba lodo;30;Colmillo Veneno;45;Constriccion;20;Mordisco;45;110;102;70
+Arbok;54;130;Acido;45;Mordisco;50;Lanza mugre;45;Onda toxica;50;Pulso umbrio;55;Veneno;60;167;158;120
+Pikachu;21;70;Ataque rapido;45;Impactrueno;60;Chispazo;40;Rayo;45;Onda voltio;50;Placaje;40;112;101;70
+Raichu;52;120;Chispa;50;Voltiocambio;55;Demolicion;50;Golpe trueno;65;Voltio cruel;60;Impactrueno;70;193;165;120
+Sandshrew;21;60;Arañazo;30;Disparo lodo;40;Avalancha;40;Bucle arena;50;Excavar;50;Bomba lodo;40;126;145;100
+Sandslash;52;120;Disparo lodo;40;Garra metal;50;Terremoto;70;Terratemblor;70;Tumba rocas;50;Excavar;55;182;202;150
+Nidoran Hembra;15;40;Mordisco;40;Picotazo veneno;45;Picadura;35;Golpe cuerpo;30;Bomba lodo;40;Colmillo veneno;45;86;94;110
+Nidorina;31;90;Mordisco;45;Picotazo veneno;50;Excavar;50;Colmillo veneno;50;Bomba lodo;45;Veneno;50;117;126;140
+Nidoqueen;52;140;Mordisco;50;Puya nociva;55;Terremoto;70;Onda toxica;50;Roca afilada;50;Colmillo veneno;55;180;174;180
+Nidoran Macho;15;40;Picotazo;40;Picotazo veneno;45;Bomba lodo;45;Golpe cuerpo;35;Cornada;40;Picadura;45;105;76;92
+Nidorino;31;90;Puya nociva;45;Picotazo veneno;50;Bomba lodo;50;Cornada;45;Excavar;55;Veneno;55;137;112;122
+Nidoking;52;140;Cola Ferrea;45;Puya nociva;50;Megacuerno;55;Onda toxica;50;Terremoto;70;Mordisco;60;204;157;162
+Clefairy;21;60;Cabezazo zen;40;Destructor;55;Fuerza lunar;55;Golpe cuerpo;40;Voz cautivadora;10;Placaje;40;107;116;140
+Clefable;52;120;Cabezazo zen;45;Rayo carga;60;Brillo magico;45;Fuerza lunar;60;Psiquico;45;Placaje;45;178;171;190
+Vulpix;21;70;Ascuas;50;Ataque rapido;45;Golpe cuerpo;35;Lanzallamas;60;Nitrocarga;60;Aranazo;40;96;122;76
+Ninetales;52;130;Finta;45;Giro fuego;60;Onda ignea;55;Rayo solar;50;Sofoco;20;Lanzallamas;60;169;204;146
+Jigglypuff;21;60;Destructor;45;Finta;35;Brillo magico;40;Giro bola;40;Voz cautivadora;10;Placaje;45;80;44;230
+Wigglytuff;52;120;Finta;45;Destructor;50;Brillo magico;50;Hiperrayo;60;Caratoña;40;Sueño;20;156;93;280
+Zubat;21;60;Ataque rapido;40;Mordisco;45;Aire afilado;50;Colmillo veneno;50;Rapidez;35;Placaje;40;83;76;80
+Golbat;32;110;Ataque ala;45;Mordisco;50;Aire afilado;50;Bola sombra;55;Colmillo veneno;50;Ataque rapido;45;161;153;150
+Oddish;20;60;Hoja afilada;40;Acido;45;Fuerza lunar;50;Bomba lodo;40;Bomba germen;40;Placaje;35;131;116;90
+Gloom;31;90;Acido;50;Hoja afilada;45;Bomba lodo;45;Fuerza lunar;55;Tormenta floral;45;Sueño;20;153;139;120
+Vileplume;52;130;Acido;55;Hoja afilada;50;Fuerza lunar;60;Tormenta floral;50;Rayo solar;50;Hiperrayo;55;202;170;150
+Paras;23;70;Aranazo;40;Picadura;40;Bomba germen;45;Tijera X;50;Veneno X;50;Veneno;45;121;99;70
+Parasect;32;100;Corte furia;45;Estoicismo;45;Rayo solar;55;Tijera X;55;Veneno X;50;Paralisante;20;165;146;120
+Venonant;30;80;Confusion;35;Picadura;45;Psicorrayo;50;Doble Rayo;60;Colmillo Veneno;50;Placaje;40;100;102;120
+Venomoth;52;120;Acoso;30;Confusion;35;Zumbido;20;Psiquico;50;Viento plata;50;Psicorrayo;60;179;150;140
+Diglett;25;60;Aranazo;45;Bofeton lodo;40;Excavar;50;Tumba rocas;50;Bomba fango;45;Terremoto;70;109;88;20
+Dugtrio;32;110;Bofeton lodo;45;Golpe bajo;45;Terremoto;70;Roca afilada;50;Bomba fango;45;Terratemblor;65;167;147;70
+Meowth;27;80;Aranazo;45;Mordisco;50;Juego sucio;35;Pulso umbrio;40;Tajo umbrio;40;Placaje;45;92;81;80
+Persian;52;120;Arañazo;50;Finta;45;Caratona;45;Joya de luz;50;Juego sucio;45;Hiperrayo;60;150;139;130
+Psyduck;31;90;Cabezazo zen;45;Pistola de agua;45;Tajo cruzado;40;Acua cola;50;Psicorrayo;50;Golpe bajo;40;122;96;100
+Golduck;52;120;Pistola de agua;55;Confusion;45;Psiquico;50;Rayo hielo;60;Hidrobomba;60;Hiperrayo;65;191;163;160
+Mankey;27;80;Aranazo;40;Golpe karate;45;Tajo cruzado;45;Puntapie;45;Demolicion;50;Golpe rapido;50;148;87;80
+Primeape;52;120;Contraataque;45;Patada baja;45;A bocajarro;45;Puntapie;50;Tajo umbrio;50;Golpe rapido;50;55;207;144;130
+Growlithe;21;80;Ascuas;45;Mordisco;42;Lanzallamas;55;Rueda fuego;59;Golpe cuerpo;47;Golpe igneo;60;136;96;110
+Arcanine;52;130;Alarido;49;Colmillo igneo;57;Llamarada;65;Triturar;55;Voltio cruel;56;Lanzallamas;68;227;166;180
+Poliwag;24;70;Burbuja;40;Disparo lodo;40;Golpe cuerpo;40;Rayo burbuja;56;Bomba fango;48;Golpe rapido;48;101;82;80
+Poliwhirl;32;100;Burbuja;45;Disparo lodo;45;Bomba fango;52;Hidropulso;56;Rayo burbuja;59;Hiperrayo;59;130;130;130
+Poliwrath;52;140;Burbuja;50;Golpe roca;50;Hidrobomba;62;Puno dinamico;52;Puno hielo;56;Hiperrayo;67;182;187;180
+Abra;15;40;Cabezazo zen;40;Rayo carga;43;Bola sombra;48;Psicocarga;40;Doble rayo;57;Placaje;46;195;103;50
+Kadabra;32;90;Psicocorte;48;Confusion;45;Bola sombra;53;Psicorrayo;59;Brillo magico;50;Golpe rapido;54;232;138;80
+Alakazam;52;130;Confusion;53;Psicocorte;48;Bola sombra;58;Onda certera;55;Premonicio;49;Hiperrayo;65;271;194;110
+Machop;27;50;Golpe karate;43;Golpe roca,48;Demolicion;52;Puntapie;48;Tajo cruzado;52;Placaje;48;137;88;140
+Machoke;38;90;Golpe karate;49;Patada baja;52;Demolicion;58;Puno dinamico;47;Sumision;40;Golpe cuerpo;54;177;130;160
+Machamp;52;130;Contraataque;56;Puno bala;58;A bocajarro;57;Cuerpo pesado;52;Puno dinamico;60;Terratemblor;75;234;162;180
+Bellsprout;20;50;Acido;42;Latigo cepa;48;Latigazo;45;Bomba lodo;42;Constriccion;40;Hoja afilada;46;139;64;100
+Weepinbell;31;80;Acido;52;Hoja afilada;51;Rayo solar;58;Bomba lodo;59;Hoja aguda;51;Hiperrayo;60;207;138;160
+Victreeel;52;120;Acido;58;Hoja afilada;57;Hoja aguda;55;Bomba lodo;65;Rayo solar;59;Hiperrayo;67;207;138;160
+Tentacool;29;80;Picotazo veneno;45;Burbuja;49;Rayo burbuja;56;Constriccion;41;Hidropulso;50;Golpe bajo;48;97;182;80
+Tentacruel;52;120;Acido;45;Puya nociva;48;Ventisca;54;Hidrobomba;60;Onda toxica;54;Bomba acida;50;166;237;160
+Geodude;24;60;Placaje;50;Lanzarrocas;52;Excavar;48;Avalancha;55;Tumba rocas;55;Golpe bajo;47;132;163;80
+Graveler;32;100;Bofeton lodo;48;Lanzarrocas;57;Excavar;54;Pedrada;58;Roca afilada;60;Terremoto;70;164;196;110
+Golem;52;140;Bofeton lodo;56;Lanzarrocas;64;Pedrada;63;Roca afilada;64;Terratemblor;78;Terremoto;80;211;229;160
+Ponyta;39;60;Ascuas;46;Placaje;43;Nitrocarga;50;Pisoton;35;Rueda fuego;55;Golpe rapido;47;170;132;100
+Rapidash;52;110;Giro fuego;57;Patada baja;47;Llamarada;54;Onda ignea;56;Taladradora;49;Lanzallamas;60;207;167;130
+Slowpoke;36;60;Confusion;35;Pistola agua;48;Psiquico;40;Hidropulso;43;Psicocarga;50;Psicorrayo;55;109;109;180
+Slowbro;52;110;Pistola agua;48;Confusion;40;Psicorrayo;60;Psiquico;48;Rayo hielo;54;Hidropulso;56;177;194;190
+Magnemite;29;50;Chispa;38;Impactrueno,58;Rayo;48;Chispazo;45;Bomba iman;44;Placaje;45;165;128;50
+Magneton;52;100;Chispa;48;Rayo carga;52;Bomba iman;56;Electrocanon;58;Foco resplandor;40;Impactrueno;68;223;182;100
+Farfetch'd;32;80;Corte furia;45;Tajo aereo;48;Aire afilado;43;Golpe aereo;50;Hoja aguda;52;Golpe bajo;46;124;118;104
+Doduo;30;60;Ataque rapido;40;Picotazo;43;Golpe aereo;48;Pajaro osado;50;Pico taladro;53;Placaje;48;158;88;70
+Dodrio;52;100;Ala de acero;50;Finta;43;Golpe aereo;55;Pajaro osado;57;Pico taladro;59;Picotazo;52;218;145;120
+Seel;33;70;Canto helado,45;Lenguetazo;48;Acua cola;50;Rayo aurora;56;Viento helado;48;Burbuja;50;85;128;130
+Dewgong;52;110;Cola ferrea;52;Vaho gelido;55;Hidropulso;56;Rayo aurora;58;Ventisca;60;Hiperrayo;67;139;184;180
+Grimer;37;70;Bofeton lodo;42;Puya nociva;48;Residuos;35;Bomba fango;45;Bomba lodo;48;Acido;50;135;90;160
+Muk;52;120;Acoso;50;Puya nociva;53;Bomba lodo;54;Onda toxica;55;Pulso umbrio;57;Acido;58;190;184;210
+Shellder;31;60;Canto helado;48;Placaje;45;Hidropulso;50;Rayo burbuja;52;Viento hielo;48;Burbuja;50;116;168;60
+Cloyster;52;120;Canto helado;52;Vaho gelido;52;Alud;48;Hidrobomba;58;Rayo aurora;60;Fantasma;45;186;323;100
+Gastly;24;50;Impresionar;30;Lenguetazo;45;Bomba lodo;48;Pulso umbrio;45;Tinieblas;38;Placaje;43;186;70;60
+Haunter;32;90;Garra umbria;47;Impresionar;53;Bomba lodo;54;Pulso umbrio;50;Puno sombra;54;Fantasma;55;223;112;90
+Gengar;52;130;Golpe bajo;55;Infortunio;50;Bola sombra;55;Bomba lodo;58;Onda certera;48;Hiperrayo;60;261;156;120
+Onix;32;100;Lanzarrocas;58;Placaje;50;Bucle arena;44;Cuerpo pesado;48;Roca afilada;55;Terremoto;78;85;288;70
+Dowzee;25;60;Destructor;48;Confusion;35;Psicorrayo;56;Psicocarga;50;Psiquico;48;Placaje;45;89;158;120
+Hypno;52;110;Cabezazo zen;52;Confusion;42;Onda certera;45;Premonicion;35;Psiquico;55;Hiperrayo;60;144;215;170
+Krabby;27;60;Burbuja;48;Disparo lodo;45;Agarre;40;Hidropulso;50;Rayo burbuja;58;Hidrobomba;58;181;156;60
+Kingler;52;110;Burbuja;52;Garra metal;50;Agarre;50;Hidropulso;58;Tijera X;60;Hidrobomba;68;240;214;110
+Voltorb;29;70;Chispa;45;Placaje;45;Chispazo;48;Giro bola;40;Rayo;50;Impactrueno;64;109;114;80
+Electrode;52;110;Chispa;50;Hiperrayo;57;Voltiocambio,58;Chispazo;50;Rayo;58;Impactrueno;70;172;179;120
+Exeggcute;21;60;Confusion;48;Recurrente;25;Bomba germen;45;Poder pasado;40;Psiquico;48;Placaje;45;107;140;120
+Exeggutor;32;120;Paranormal;45;Recurrente;35;Bomba germen;50;Psiquico;56;Rayo solar;60;Golpe rapido;56;233;158;190
+Cubone;27;60;Bofeton lodo;48;Golpe roca;50;Excavar;45;Hueso palo;45;Terratemblor;56;Placaje;45;90;165;100
+Marowak;52;110;Bofeton lodo;54;Golpe roca;55;Excavar;58;Hueso palo;55;Terremoto;75;Terratemblor;68;144;200;120
+Hitmonlee;32;80;Golpe roca;42;Patada baja;40;A bocajarro;45;Puntapie;49;Roca afilada;53;Golpe rapido;50;224;211;100
+Hitmonchan;32;80;Contraataque;42;Puno bala;50;A bocajarro;45;Puno fuego,56;Puno hi-elo;55;Puno trueno;55;193;212;100
+Lickitung;32;80;Cabezazo zen;52;Lenguetazo;48;Hiperrayo;58;Latigazo;45;Pisoton;40;Placaje;40;108;137;180
+Koffing;34;70;Acoso;30;Placaje;38;Bomba lodo;42;Pulso umbrio;40;Residuos;35;Acido;45;119;164;80
+Weezing;52;110;Acoso;35;-Placaje;45;Bola sombra;52;Bomba lodo;50;Pulso umbrio;45;Acido;55;174;221;130
+Rhyhorn;41;90;Bofeton lodo;45;Golpe roca;50;Cornada;48;Pisoton;50;Terratemblor;60;Terremoto;70;140;157;160
+Rhydon;52;150;Bofeton lodo;52;Golpe roca;55;Megacuerno;58;Roca afilada;54;Terremoto;90;Taladradora;56;222;206;210
+Chansey;21;60;Cabezazo zen;45;Destructor;52;Brillo magico;38;Hiperrayo;53;Psiquico;46;Placaje;43;60;176;500
+Tangela;21;60;Acoso;34;Latigo cepa;40;Bomba lodo;45;Hierba lazo;42;Rayo solar;55;Placaje;45;183;205;130
+Kangaskhan;32;90;Bofeton lodo;48;Patada baja;45;Enfado;20;Terremoto;70;Triturar;62;Golpe roca;58;181;165;210
+Horsea;31;70;Burbuja;45;Pistola de agua;50;Foco resplandor;35;Pulso dragon;40;Rayo burbuja;55;Acua hielo;50;129;125;60
+Seadra;52;110;Dragonaliento;50;Pistola agua;58;Hidrobomba;54;Pulso dragon;48;Rayo aurora;56;Hiperrayo;65;187;182;110
+Goldeen;31;60;Disparo lodo;48;Picotazo;45;Acua cola;46;Cornada;42;Hidropulso;52;Hidrobomba;50;123;115;90
+Seaking;52;100;Picotazo;50;Puya nociva;52;Hidropulso;58;Megacuerno;55;Rayo hielo;60;Hiperrayo;57;175;154;160
+Staryu;21;60;Pistola agua;45;Placaje;40;Joya de luz;45;Rapidez;43;rayo burbuja;50;Hiperrayo;50;137;112;60
+Starmie;32;100;Pistola agua;50;Poder oculto;48;Hidrobomba;53;Joya de luz;52;Psicorrayo;50;Psiquico;55;210;184;120
+Mr. Mine;32;100;Cabezazo zen;48;Confusion;35;Bola sombra;40;Psicorrayo;50;Psiquico;48;Placaje;43;192;233;80
+Scyther;21;60;Ala de acero;48;Cortefuria;45;Zumbido;35;Tijera X;52;Tajo umbrio;48;Golpe aereo;52;218;170;140
+Jynx;52;80;Confusion;38;Vaho gelido;52;Alud;48;Beso drenaje;50;Psicocarga;60;Placaje;55;223;182;130
+Electabuzz;32;80;Impactrueno;52;Patada baja;48;Puno tueno;60;Rayo trueno;58;Golpe rapido;52;198;173;130
+Magmar;32;80;Ascuas;50;Golpe karate;45;Lanzallamas;60;Llamarada;55;Puno fuego;48;Golpe igneo;53;206;169;130
+Pinsir;21;60;Golpe roca;45;Picadura;50;A bocajarro;43;Agarre;40;Tijera X;50;Taladradora;48;238;197;130
+Tauros;21;70;Cabezazo zen;40;Placaje;45;Cabeza de hierro;45;Cornada;40;Terremoto;60;Terratemblor;55;198;197;150
+Magikarp;19;50;Salpicadura;20;Combate;15;Placaje;35;Golpe;25;Salpicadura;20;Nada;1;29;102;40
+Gyarados;52;150;Mordisco;52;Cascada;55;Hidrobomba;72;Enfado;40;Triturar;60;Hiperrayo;85;237;197;190
+Lapras;21;70;Vaho gelido;50;Canto helado;45;Ventisca;50;Pulso dragon;55;Rayo hielo;52;Hiperrayo;50;165;180;260
+Ditto;21;70;Transformacion;1;Combate;35;Golpe;35;Copiar;20;Batalla;20;Nada;1;91;91;96
+Evee;21;60;Placaje;45;Ataque rapido;42;Golpe cuerpo;45;Excavar;50;Rapidez;48;Encanto;30;104;121;110
+Vaporeon;32;100;Pistola agua;50;Hidrobomba;52;Acua cola;50;Hidropulso;58;Hiperrayo;65;Rayo burbuja;63;205;177;260
+Jolteon;32;100;Impactrueno;55;Voltiocambio;50;Rayo;52;Chispazo;50;Trueno;60;Golpe rayo;70;232;201;130
+Flareon;32;100;Ascuas;52;Llamarada;50;Lanzallamas;62;Onda ignea;58;Golpe Ingeo;55;Rueda fuego;58;246;204;130
+Porygon;32;80;Placaje;45;Cabezazo zen;48;Chispazo;42;Psicorrayo;52;Doble rayo;55;Hiperrayo;50;153;139;130
+Omanyte;39;90;Disparo lodo;48;Pistola agua;50;Tuma rocas;48;Salmuera;40;Poder pasado;43;Rayo burbuja;50;155;174;70
+Omastar;52;120;Disparo lodo;53;Pistola agua;55;Poder pasado;50;Hidrobomba;55;Avalancha;54;Hiperrayo;62;207;227;140
+Kabuto;39;80;Aranazo;48;Disparo lodo;42;Tumba rocas;50;Poder pasado;45;Acua jet;42;Placaje;48;148;162;60
+Kabutops;52;120;Corte furia;52;Disparo lodo;50;Poder pasado;48;Roca afilada;55;Hidrobomba;58;Aranazo;50;220;203;120
+Aerodactyl;32;100;Mordisco;50;Ala de acero;53;Poder pasado;48;Hiperrayo;55;Cabezazo de hierro;51;Rayo cosmico;65;221;164;160
+Snorlax;32;120;Lenguetazo;45;Cabezazo zen;52;Golpe cuerpo;55;Terremoto;75;Hiperrayo;70;Placaje;52;190;190;320
+Articuno;52;140;Vaho gelido;65;Rayo hielo;85;Ventisca;55;Viento hielo;61;Hiperrayo;75;Alas de acero;65;192;249;180
+Zapdos;52;140;Rayo carga;65;Electrocanon;87;Rayo;Impactrueno;90;Alas de acero;65;Voltiocambio;58;253;188;180
+Moltres;52;140;Giro fuego;65;Llamarada;55;Onda ignea;65;Sofoco;45;Alas de acero;65;Rueda ignea;75;251;184;180
+Dratini;29;50;Dragoaliento;45;Mordisco;48;Acua cola;42;Ciclon;40;Constriccion;38;Rayo;48;119;94;82
+Dragonair;52;100;Dragonaliento;50;Cola ferrea;48;Acua cola;52;Pulso dragon;50;Constriccion;45;Rayo;52;163;138;122
+Dragonite;65;150;Dragonaliento;55;Ala de acero;52;Cola dragon;52;Garra dragon;54;Pulso Dragon;50;Hiperrayo;65;Vendaval;263;201;182
+Mewtwo;52;130;Psicocorte;65;Confusion;50;Psiquico;68;Bola sombra;78;Hiperrayo;82;Onda certera;75;300;182;193
+Mew;52;130;Voltiocambio;80;Giro bola;56;Terratemblor;85;Puntapie;65;Nitrocarga;82;Destructor;90;210;210;200

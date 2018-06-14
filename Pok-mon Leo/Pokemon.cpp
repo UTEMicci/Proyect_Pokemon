@@ -13,10 +13,11 @@ void LecturaPokedex(Pokemon Pokedex[]){
 
     ifstream archivo;
     string nombre ,at1 ,at2 ,at3 ,at4 ,at5 ,at6;
+    string pa1, pa2, pa3, pa4, pa5, pa6;
     string linea;
     string vida ,nivel ,ataque ,defensa ,resistencia;
 
-    archivo.open("PokeDex.txt", ios::in);
+    archivo.open("PokeDex2.txt", ios::in);
     if(archivo.fail()){
         cout<<"Error al abrir el archivo";
         exit(1);
@@ -30,29 +31,60 @@ void LecturaPokedex(Pokemon Pokedex[]){
             getline(stream,vida,';');
             getline(stream,nivel,';');
             getline(stream,at1,';');
+            getline(stream,pa1,';');
             getline(stream,at2,';');
+            getline(stream,pa2,';');
             getline(stream,at3,';');
+            getline(stream,pa3,';');
             getline(stream,at4,';');
+            getline(stream,pa4,';');
             getline(stream,at5,';');
+            getline(stream,pa5,';');
             getline(stream,at6,';');
+            getline(stream,pa6,';');
             getline(stream,ataque,';');
             getline(stream,defensa,';');
             getline(stream,resistencia,';');
 
             int vidas,nivels,ataques,defensas,resistencias;
+            int _pa1,_pa2,_pa3,_pa4,_pa5,_pa6;
+            _pa1 = atoi(pa1.c_str());
+            _pa2 = atoi(pa2.c_str());
+            _pa3 = atoi(pa3.c_str());
+            _pa4 = atoi(pa4.c_str());
+            _pa5 = atoi(pa5.c_str());
+            _pa6 = atoi(pa6.c_str());
             vidas  = atoi(vida.c_str());
             nivels = atoi(nivel.c_str());
             ataques = atoi(ataque.c_str());
             defensas = atoi(defensa.c_str());
             resistencias = atoi(resistencia.c_str());
 
-            Pokedex[i].setAtributos(nombre,vidas,nivels,at1,at2,at3,at4,at5,at6,ataques,defensas,resistencias);
+            Pokedex[i].setAtributos(nombre,vidas,nivels,_pa1,_pa2,_pa3,_pa4,_pa5,_pa6,at1,at2,at3,at4,at5,at6,ataques,defensas,resistencias);
             i++;
-            }
+             }
         }
         archivo.close();
 }
 
+void Pokemon::Mostrar()
+{
+    cout<<"Nombre         : "<<nombre<<endl;
+    cout<<"Vida           : "<<vida<<endl;
+    cout<<"Nivel          : "<<nivel<<endl;
+    cout<<"Ataque         : "<<ataque<<endl;
+    cout<<"Defensa        : "<<defensa<<endl;
+    cout<<"Resistencia    : "<<resistencia<<endl;
+    cout<<"Ataque y valor : "<<at1<<" - "<<pa1<<endl;
+    cout<<"Ataque y valor : "<<at2<<" - "<<pa2<<endl;
+    cout<<"Ataque y valor : "<<at3<<" - "<<pa3<<endl;
+    cout<<"Ataque y valor : "<<at4<<" - "<<pa4<<endl;
+    cout<<"Ataque y valor : "<<at5<<" - "<<pa5<<endl;
+    cout<<"Ataque y valor : "<<at6<<" - "<<pa6<<endl;
+
+}
+
+/*
 void MostrarPokemones(Pokemon Pokedex[]){
     cout<<" POKEMONESS "    <<endl<<endl;
     for(int i=1 ; i<=151 ; i++){
@@ -70,10 +102,10 @@ void MostrarPokemones(Pokemon Pokedex[]){
         cout<<"resistencia : "<<Pokedex[i].getResistencia()<<endl<<endl;
     }
 }
-
+*/
 void ListaPokemon(Pokemon Pokedex[]){
     cout<<endl<<"\tLista de Pokemon's"<<endl<<endl;
-    for(int i=1; i<=151 ; i++){
+    for(int i=1; i<=152 ; i++){
         cout<<i<<") "<<Pokedex[i].getNombre()<<endl;
     }
 }
@@ -121,6 +153,8 @@ void MochilaRandom(Pokemon Pokedex[],Pokemon mochila2[],int x[]){
     mochila2[5]=Pokedex[x[5]];
     mochila2[6]=Pokedex[x[6]];
 }
+
+
 
 void MostrarMochila(Pokemon mochila[]){
     cout<<endl<<"Tus Pokemon son :"<<endl<<endl;
