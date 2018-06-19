@@ -28,8 +28,8 @@ void LecturaPokedex(Pokemon Pokedex[]){
         while(getline(archivo,linea)){
             stringstream stream(linea);
             getline(stream,nombre,';');
-            getline(stream,vida,';');
             getline(stream,nivel,';');
+            getline(stream,vida,';');
             getline(stream,at1,';');
             getline(stream,pa1,';');
             getline(stream,at2,';');
@@ -67,6 +67,18 @@ void LecturaPokedex(Pokemon Pokedex[]){
         archivo.close();
 }
 
+int Pokemon::Atacar(int d, int poder ){
+    float num, num1, den, den1, total;
+
+    num = (0.2 * nivel) + 1;
+    num1 = num * ataque * poder;
+    den = 25 * d;
+    den1 = num1 / den ;
+    total = den1 + 2;
+
+    return total;
+}
+
 void Pokemon::Mostrar()
 {
     cout<<"Nombre         : "<<nombre<<endl;
@@ -84,30 +96,21 @@ void Pokemon::Mostrar()
 
 }
 
-/*
-void MostrarPokemones(Pokemon Pokedex[]){
-    cout<<" POKEMONESS "    <<endl<<endl;
-    for(int i=1 ; i<=151 ; i++){
-        cout<<"nombre   : "<<Pokedex[i].getNombre()<<endl;
-        cout<<"nivel    : "<<Pokedex[i].getNivel()<<endl;
-        cout<<"vida     : "<<Pokedex[i].getVida()<<endl;
-        cout<<"ataque 1 : "<<Pokedex[i].getAt1()<<endl;
-        cout<<"ataque 2 : "<<Pokedex[i].getAt2()<<endl;
-        cout<<"ataque 3 : "<<Pokedex[i].getAt3()<<endl;
-        cout<<"ataque 4 : "<<Pokedex[i].getAt4()<<endl;
-        cout<<"ataque 5 : "<<Pokedex[i].getAt5()<<endl;
-        cout<<"ataque 6 : "<<Pokedex[i].getAt6()<<endl;
-        cout<<"ataque   : "<<Pokedex[i].getAtaque()<<endl;
-        cout<<"defensa  : "<<Pokedex[i].getDefensa()<<endl;
-        cout<<"resistencia : "<<Pokedex[i].getResistencia()<<endl<<endl;
-    }
-}
-*/
+
 void ListaPokemon(Pokemon Pokedex[]){
     cout<<endl<<"\tLista de Pokemon's"<<endl<<endl;
-    for(int i=1; i<=152 ; i++){
+    for(int i=1; i<=151 ; i++){
         cout<<i<<") "<<Pokedex[i].getNombre()<<endl;
     }
+}
+
+bool EstanVivos (Pokemon all[]){
+
+    if(all[1].getVida()<=0 && all[2].getVida()<=0 && all[3].getVida()<=0 && all[4].getVida()<=0 && all[5].getVida()<=0 && all[6].getVida()<=0)
+        return false;
+    else
+        return true;
+
 }
 
 void Mochila(Pokemon Pokedex[],Pokemon mochila[], int p1,int p2,int p3,int p4,int p5,int p6){

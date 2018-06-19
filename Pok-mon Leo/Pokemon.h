@@ -32,6 +32,7 @@ public:
         defensa = _defensa;
         resistencia = _resistencia;
     }
+    void setVida(int _vida){ vida = _vida;}
     string getNombre(){return nombre;}
     int getVida(){return vida;}
     int getNivel(){return nivel;}
@@ -50,7 +51,7 @@ public:
     int getAtaque(){return ataque;}
     int getDefensa(){return defensa;}
     int getResistencia(){return resistencia;}
-    int Atacar();
+    int Atacar(int d, int a);
     void Mostrar();
 };
 typedef Pokemon Pokedex[151];
@@ -64,5 +65,6 @@ void ver(Pokemon Pokedex[]);
 void random(int x[]);
 void MochilaRandom(Pokemon Pokedex[],Pokemon mochila2[],int x[]);
 void MostrarMochila(Pokemon mochila[]);
+bool EstanVivos (Pokemon all[]);
 
 #endif // POKEMON_H_INCLUDED
